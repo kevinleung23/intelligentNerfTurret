@@ -1,0 +1,14 @@
+{
+  "name": "raspberrypi_int",
+  "version": "1.0.0",
+  "description": "raspberry pi code for the Intelligent Nerf project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gabrielle Crevecoeur, Kevin Leung, Hao Luo",
+  "license": "ISC",
+  "dependencies": {
+    "node-cmd": "^3.0.0"
+  }
+}
